@@ -1,0 +1,16 @@
+{
+  "name": "did-thanos-kill-me",
+  "version": "1.0.0",
+  "description": "This site tells whether you were killed by Thanos or not.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["thanos", "kill"],
+  "author": "MasterChief",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
